@@ -1,0 +1,1 @@
+Exercise on Sort, map, filter reduce in JavaScript with Wes Bos  #JavaScript30  challenges course. I learned and practices sorting, filtering, mapping and reducing while adding Arrow function to those skills.
